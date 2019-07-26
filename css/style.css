@@ -1,0 +1,59 @@
+div.clearfix{
+    clear: both;
+}
+div.clearfix{
+    clear: both;
+}
+
+div.clearfix{
+    clear: both;
+}
+
+html, body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    font-family:'opensans-regular', sans-serif;
+}
+
+div.clearfix{
+    clear: both;
+}
+
+header, section, footer{
+    width: 100%;
+    display: block;
+    position: relative;
+    text-align: center;
+    font-size: 300%;
+  
+}
+
+div.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+body, html {
+    height: 100%;
+    color: rgb(218, 214, 22);
+}
+
+h1{
+    color: rgb(218, 214, 22);  
+}
+
+.bg-img {
+    /* The image used */
+    background-image: url("../img/hhack3.jpg");
+    height: 600px;
+    min-height: 200px;
+  /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* Needed to position the navbar */
+    position: relative;
+    }
